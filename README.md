@@ -12,4 +12,4 @@ Criando site do portfólio pessoal/profissional
     <p>Se você não for redirecionado, <a href="https://sites.google.com/view/davidportflio/in%C3%ADcio">clique aqui</a>.</p>
 </body>
 </html>)
-* 📄 **Documentação Oficial:** [Visualizar Plano de Implantação (C:\Users\User\Desktop\bootcamp\planejamento de implantação.pdf)
+* 📄 **Documentação Oficial:** [Visualizar Plano de Implantação (planejamento_de_implantação.pdf.pdf)
